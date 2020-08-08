@@ -176,3 +176,37 @@ Discovery service of  all your running services
 - Improves availability
 
 ---------------------
+
+# DEVELOPER TOOLs
+
+## Code Star 
+Develop/build & deploy  apps on AWS 
+
+Code Star & BeanStalk slightly overlaps ?
+
+Code Star is like to VS Code 
+At Beanstalk is a real location where the app is deployed ( can be deployed in Docker, lambda function 
+
+Supports JS, Ruby, Python PHP
+
+## Code Commit
+Source Control Service Like GIthub, Gtlab, Bitbucket
+
+## Code Build
+Compiles code and run test & produce software
+Dry run (unit testing)
+
+## Code Deploy
+Automates software deployment to EC2, Lambda or on-prem
+
+## Code PipeLine
+Its continuous integration and continuous integration for update
+
+## Code Cloud9
+Its IDE (Integrated Development Environment) like Eclipse, visual code, atom & sublime
+
+## X-Ray
+For analysis, debug and troubleshooting
+
+## debug for coding
+trouble for infra issues  
