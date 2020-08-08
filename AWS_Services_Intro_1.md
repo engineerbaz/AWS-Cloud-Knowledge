@@ -9,8 +9,8 @@ Total 165+ services covering Compute, Networking, Security, business application
 
 ## LightSail
 - Both LS & EC2 are compute service but the difference is 
--- Complete package (including CPU, RAM. HDD, networking )
--- No scaling in LS
+    -- Complete package (including CPU, RAM. HDD, networking )
+    -- No scaling in LS
 -- LS is only public
 -- Monthly charges
 
