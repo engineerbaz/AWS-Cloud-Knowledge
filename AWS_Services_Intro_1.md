@@ -83,3 +83,49 @@ Volume-based. =  data of branch to move to HQ
 
 ## Backup 
 To schedule backup of any service 
+
+--------------
+# DATABASE
+
+## RDS Relational DB 
+- suite of DB
+- DB Server can run 6 types of DB
+
+* Arora (AWS propertiship)
+* Postgre SQL, MYSQL, MariaDB --  Community based (They are OpenSource but needs to pay for machine/compute) 
+* Oracle & Microsft = License & Compute Charges also 
+
+Oracle license (per month charges )
+ 
+EE Enterprise (6 months free 
+SE = Standard Edition
+
+Microsoft license 
+Express &  Web --  Free
+Standard & Enterprise -- charged
+
+# DynamicDB 
+No SQL query like MangoDB
+
+# Elastic-CACHE
+- Redis and Memcached (Open Sourced, server cost is charged)
+- Popular for Gaming, FinTech, IoT
+
+# Neptune
+- Fast reliable graph date bas
+- Data Set for an
+
+# RedShift
+Like Data warehouse 
+
+# Quantum Ledger DB
+- Transparent 
+- Fully managed (managed by AWS)
+- Immutable 
+
+# Document DB
+MongDB compatible DB
+
+Lab for RDS & DynamicDB
+
+--------------
