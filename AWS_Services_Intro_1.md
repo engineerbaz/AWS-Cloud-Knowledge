@@ -42,7 +42,7 @@ Free service
 
 # STORAGE
 
-# S3 - Simple Storage
+## S3 - Simple Storage
 - Like Google Drive/One Drive
 - S3 in AWS
 - Google cloud Storage In Google , Block in Azure , OSS in Alibaba
@@ -51,7 +51,7 @@ Free service
 - Object can be uploaded of max 5TB 
 - Works on Linux & Windows both
 
-# EFS - Elastic File System 
+## EFS - Elastic File System 
 - works on Linux 
 - Like NFS
 - Elastic means  can grow up and down
@@ -60,25 +60,25 @@ Free service
 Object = dynamic
 Block = Fixed like HDD
 
-# FSx
+## FSx
 - FsX = for Windows 
 - It needs Active Directory 
 
 EFS uses EXT4
 FSX uses SMB in window 
 
-# S3 Glacier
+## S3 Glacier
 - Glacier like archive for long time 
 - 9.999999999 % durability
 - Police record, medical &  financial record. 
 - Cheap service 
 
-# Storage Gateway
+## Storage Gateway
 - On Prem & Cloud = Hybrid
 - Need VPN
   
 Cache based = main data in cloud and cache on-prem
 Volume-based. =  data of branch to move to HQ
 
-# Backup 
+## Backup 
 To schedule backup of any service 
