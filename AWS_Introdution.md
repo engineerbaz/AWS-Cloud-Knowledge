@@ -76,6 +76,12 @@ Windows based File System using SMB (Simple Message Box)
 ## EFS Elastic File 
 for making Linux Mount point 
 
+-------------------------
+
+# FREE TIER & CERTIFICATION 
+
+
+
 
 
 
