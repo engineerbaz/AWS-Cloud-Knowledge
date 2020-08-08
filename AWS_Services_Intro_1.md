@@ -167,7 +167,6 @@ We can use any other DNS services than route 53, can we?  YES but no routing fun
 ## APP mesh
 For E2E visibility of microservices for high availability
 
-
 ## Cloud Map 
 Discovery service of  all your running services 
 
