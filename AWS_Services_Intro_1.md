@@ -164,7 +164,7 @@ Can a VPC consist of multiple region VMs? No
 We can use any other DNS services than route 53, can we?  YES but no routing functionality 
 
 
-# APP mesh
+## APP mesh
 For E2E visibility of microservices for high availability
 
 
@@ -208,5 +208,75 @@ Its IDE (Integrated Development Environment) like Eclipse, visual code, atom & s
 ## X-Ray
 For analysis, debug and troubleshooting
 
-## debug for coding
+debug for coding
 trouble for infra issues  
+
+--------------------
+
+# MANAGEMENT & GOVERNANCE
+ 
+
+## AWS Organization 
+For consolidated billing and control of multiple accounts
+
+## Cloud Watch 
+Monitoring service and alert as well
+Can work for EC2, DynamicDB Table, RDS 
+
+## Auto Scaling 
+Horizontal scaling 
+
+## Cloud Formation 
+A Common Language to describe Cloud network (that is used for future reference ) 
+Infra aaS
+YAML, JASON can be used.
+Deployment manager in GCP, Resource Manager in Azure 
+Terraform can make any resource
+
+Programing for App development 
+Coding for Infrastructure
+
+## Cloud Trail 
+Audit logs for compliance 
+Risk auditing
+
+## AWS Config 
+For enabling assess audit and evaluate configuration 
+
+## OpsWork
+Its a Configuration Management 
+Ansible, 
+Allow automated Config management
+Chef & Puppet = opswork
+
+## Service Catalog
+Create catalog IT services
+
+
+## System Manager 
+For getting Inventory management 
+Help in getting access in VMs Using SDK (without Putty)
+
+
+## Truster Advisor 
+For suggestion to reduce cost, service 
+
+## Managed Service 
+Se of service for automating infra management task 
+
+## Control Tower 
+To set up a secure account
+
+## License Manager 
+For license migration
+BYOL = Bring Your Own Li
+
+Well Architecture Tool
+For suggesting best practices
+
+## Health Dashboard
+NMS of regions
+
+## Chatbot
+To automate answer queries using SLACK
+
