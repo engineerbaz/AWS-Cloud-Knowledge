@@ -129,3 +129,50 @@ MongDB compatible DB
 Lab for RDS & DynamicDB
 
 --------------
+
+# NETWORK & CONTENT DELIVERY 
+
+Network services Works on Layer 2 /3 and 4 
+Content delivery = sharing caching data 
+
+VPC = Virtual Private Cloud 
+Network of Router, Switches, Firewall 
+VPN, NAT Gateway
+
+All Nodes (Routers, Switch etc) are virtual as they are not physical
+
+Can a VPC consist of multiple region VMs? No
+
+## Cloud Front
+- It is like CDN Cache Data Network 
+- Clone of your data can be placed in different location where your user location so low latency and fast
+
+## Route 53
+- 53 port number 
+- DNS based service 
+- Domain Name ,DNS record, Zones
+
+## API GW
+- monitor/create publish APIs 
+- API = Application Programmable In
+
+## Direct Connect 
+- The connection between your location and AWS 
+- Dedicated fiber line
+- Till 10Gbps speed, Where VPN is around 300mbps (or depends on speed you have)
+
+We can use any other DNS services than route 53, can we?  YES but no routing functionality 
+
+
+# APP mesh
+For E2E visibility of microservices for high availability
+
+
+## Cloud Map 
+Discovery service of  all your running services 
+
+## Global Accelerator
+- Network Layer service direct traffic to optimal end points 
+- Improves availability
+
+---------------------
