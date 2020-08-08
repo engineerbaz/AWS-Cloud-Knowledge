@@ -104,26 +104,26 @@ Microsoft license
 Express &  Web --  Free
 Standard & Enterprise -- charged
 
-# DynamicDB 
+## DynamicDB 
 No SQL query like MangoDB
 
-# Elastic-CACHE
+## Elastic-CACHE
 - Redis and Memcached (Open Sourced, server cost is charged)
 - Popular for Gaming, FinTech, IoT
 
-# Neptune
+## Neptune
 - Fast reliable graph date bas
 - Data Set for an
 
-# RedShift
+## RedShift
 Like Data warehouse 
 
-# Quantum Ledger DB
+## Quantum Ledger DB
 - Transparent 
 - Fully managed (managed by AWS)
 - Immutable 
 
-# Document DB
+## Document DB
 MongDB compatible DB
 
 Lab for RDS & DynamicDB
