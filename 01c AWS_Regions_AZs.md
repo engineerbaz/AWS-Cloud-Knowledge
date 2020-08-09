@@ -7,7 +7,8 @@ AWS is universal public cloud provider
 
 
 ## AZ
-Its actual Data Center providing compute, storage, network
+Its actual Data Center providing compute, storage, network in different location in same Region
+
 
 # AWS Global Infra
 - 76 AZs 
