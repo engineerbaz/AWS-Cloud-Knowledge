@@ -1,5 +1,7 @@
 This repository is for knowledge sharing purpose covering Amazon Web Services (AWS)
 
+Amazon Web Services (AWS) is a collection of various Cloud Computing services and applications that offers flexible, reliable, easy-to-use, and cost-effective solutions.
+
 # AWS Cloud (Amazon Web Services)
 
 - AWS Amazon Web Services
