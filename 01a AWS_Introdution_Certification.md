@@ -137,6 +137,8 @@ For Check Latency of AWS' region
 
 
 
+![Snapshot of CloudPing](https://www.github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/images/CloudPing.jpg)
+ 
 
 
 
