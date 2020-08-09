@@ -1,4 +1,4 @@
-This repository for knowledge sharing purpose covering Amazon Web Services (AWS)
+This repository is for knowledge sharing purpose covering Amazon Web Services (AWS)
 
 # AWS Cloud (Amazon Web Services)
 AWS Certification Programs covering three associate level tracks.
