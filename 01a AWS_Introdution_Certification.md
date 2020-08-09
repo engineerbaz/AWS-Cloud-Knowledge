@@ -111,7 +111,7 @@ for making Linux Mount point
    2. DevOps Engineer
 4. Speciality Track ($300)
 
-**| | Cloud Certification tracks | ||**
+| | Cloud Certification tracks | ||
 | :--- | :------------------------- | :----- | :-------- |
 | **Foundational**| - | Cloud Practioner                 |        |
 | **Associate** | Solution Architect                  | SysOps Administrator | Developer |
