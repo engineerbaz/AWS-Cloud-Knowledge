@@ -43,7 +43,7 @@ Act of creating a virtual version of something (OS, Storage, network)
 
 ## Advantages & Characteristics of Cloud Computing
 
-- on-demand
+**- on-demand**
   - Avalailble when needed 
 - No SPOF
   - No Single Point of Failure
@@ -51,13 +51,32 @@ Act of creating a virtual version of something (OS, Storage, network)
   - Verticle - adding capacity in existing resources
   - Horizontal - adding more resources
 - PAYG
-  - Pay As You Go ( Pay what you use for )
+  - Pay As You Go ( Pay what you use )
 - Agile 
   - Go global in minutes 
+  - Can be live in different locations 
 - HA  
-  - High Avalailblity 
-  - Durable 
+  - High Avalailblity related to Server
+  - Durable related to Storage (SSD)
 - Secure
+  - Of the Cloud = Physical security
+  - In the Cloud =  Securing cloud you made
+
+# Type of cloud
+- Public 
+  - 
+    - AWS, Google, AliBaba, Azure 
+- Private 
+  - Made in your Datacenter for use or selling 
+
+# Categories
+- IaaS
+  - compute, Storage, network
+- PaaS
+  - Application Development , Serverless
+- SaaS
+  - Email, Docs
+
 
 
 
