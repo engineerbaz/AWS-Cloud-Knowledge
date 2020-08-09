@@ -79,12 +79,59 @@ for making Linux Mount point
 -------------------------
 
 # FREE TIER & CERTIFICATION 
+---
 
+## Free Tier 
+- For signing in for the 1st time account in AWS , they offer some free services to use. So you need to check before using if services are free to use.
+- Its for 12 months
+- Its works on hourly basis (even used for 2 minutes)
+- In GCP, they offer $300 to use as free credit
 
+- 750 hours EC2 machine free (24 hours in a day & 30 days in a month)
+- 5GB storage free
+- 5gB for FSx
+- 15GB Data transfer (Data out will be charged)
+- 1GB regional transfer for all AWS services
+- So many other Services are free like RDS, IoT, Lambda
 
+## AWS Certification Road Map
 
+- It has three Levels & Speciality track
+- Total 12 Exams
+- Validatity of 3 years 
 
+1. Foundational ($100) 90 minutes & 65 Questions
+   1. Cloud Practioner
+2. Associate ($150) 130 minutes & 65 Questions
+   1. Solution Architect
+   2. SysOps Administrator
+   3. Developer
+3. Professional (Costs 300$) 170 minutes 
+   1. Solution Architect
+   2. DevOps Engineer
+4. Speciality Track ($300)
 
+**| | Cloud Certification tracks | ||**
+| :--- | :------------------------- | :----- | :-------- |
+| **Foundational**| - | Cloud Practioner                 |        |
+| **Associate** | Solution Architect                  | SysOps Administrator | Developer |
+| **Professional** | Solution Architect          | DevOps Engineer   | 
+
+Some Speciality Tracks 
+- Advanced Networking
+- Security
+- Machine Learning
+- Alexa Skill Builder
+- Data Analytics
+- Database
+
+** 50% Discount if you have passed 1st exam.
+
+------
+
+## AWS Region Latency
+For Check Latency of AWS' region , 
+[use weblink](https://cloudping.info/)
 
 
 
