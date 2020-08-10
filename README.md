@@ -11,7 +11,7 @@ This repository is for knowledge sharing purpose covering Amazon Web Services (A
   - [Cloud Computing Basics, Types & Categories](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/01b%20Cloud_Computing_Basics.md) 
   - [AWS Regions & Avalailblity Zones](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/01c%20AWS_Regions_AZs.md)
 - AWS Services 
-  - [Part#1](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/02%20AWS_Services_Intro_1.md) 
+  - [Part 1](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/02%20AWS_Services_Intro_1.md) 
 
 ![Learn AWS-Services](https://user-images.githubusercontent.com/56934817/89783056-bda6ea00-db2f-11ea-96e8-91f648cce438.png)
 
