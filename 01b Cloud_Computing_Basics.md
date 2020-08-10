@@ -25,14 +25,13 @@ A Computer on which a HyperVisior runs one or more VMs called Host Machine
 Each VM is called Guest Machine
 
 #### Issues with Servers
-No efficient utilization of resources (CPU, Memory)
+No efficient utilization of resources (CPU, Memory), Most of the time resources were being wasted.
 
 #### Issues with VMs
 For any upgrade in resources all VMs should be turn off 
 
 ## Virtualization
 Act of creating a virtual version of something (OS, Storage, network)
-
 
 ## Cloud Computing
 - Using on-demand Computing resources outside your premises
