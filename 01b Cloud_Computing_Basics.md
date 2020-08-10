@@ -4,14 +4,15 @@ Before moving to Cloud, we need to know HyperVisior
 
 ## HyperVisior (VM)
 Piece of Computer software, firmware or hardware that creates & runs VM
-two types of HyperVisior
-- Type 1 
-  - Install directally on hardware
-    - Zen Server, 
-    - ESXi(VMware), 
-    - HyperV (MS), 
-    - Citrix, KVM (OpenSource)
-- Type 2 
+
+There are two main hypervisor types, referred to as “Type 1” (or “bare metal”) and “Type 2” (or “hosted”). 
+- A type 1 hypervisor acts like a lightweight operating system and runs directly on the host’s hardware
+  - Zen Server, 
+  - ESXi(VMware), 
+  - HyperV (MS), 
+  - Citrix, KVM (OpenSource)
+  
+- A type 2 hypervisor runs as a software layer on an operating system, like other computer programs.
   - For Testing purposes
   - Install on OS (Windows 10/ /Linux)
     - Oracle VirtualBox
