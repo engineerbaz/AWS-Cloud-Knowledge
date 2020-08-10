@@ -64,10 +64,11 @@ Act of creating a virtual version of something (OS, Storage, network)
 
 # Type of cloud
 - Public 
-  - 
-    - AWS, Google, AliBaba, Azure 
+  - Avalailble for everyone & on internet
+    - AWS, Google, Azure, AliBaba, Azure 
 - Private 
   - Made in your Datacenter for use or selling 
+    - OpenStack, Cloud Stack
 
 # Categories
 - IaaS
