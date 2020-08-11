@@ -1,7 +1,7 @@
 The notes in this repository is comprehensive and written with the goal of knowledge sharing.
 
-Good luck & enjoy studying! coffee
-sparkles 
+Good luck & enjoy studying! :coffee:
+:sparkles:
 #### Contributions of any kind are welcome!
 
 ------------------------------
