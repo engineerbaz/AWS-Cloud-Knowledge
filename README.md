@@ -1,4 +1,4 @@
-This repository is comprehensive and written with goal of knowledge sharing purpose.
+This repository is comprehensive and precise with the goal of knowledge sharing.
 #### Contributions of any kind are welcome!
 
 ------------------------------
