@@ -1,8 +1,7 @@
 The notes in this repository is comprehensive and written with the goal of knowledge sharing of AWS Cloud :cloud:
 
-Good luck & enjoy studying! :coffee:
-:sparkles:
-#### Contributions of any kind are welcome!
+- Good luck & enjoy studying! :coffee: 
+- :sparkles: #### Contributions of any kind are welcome!
 
 ------------------------------
 
