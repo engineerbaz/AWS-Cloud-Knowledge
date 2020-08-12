@@ -1,3 +1,7 @@
+# Additional Resources for Learning 
 
-AWS Exhibition Online 
+### Check Ping from AWS Regions
+https://cloudping.info
+
+### AWS Exhibition Online 
 https://onlinexperiences.com/scripts/Server.nxp
