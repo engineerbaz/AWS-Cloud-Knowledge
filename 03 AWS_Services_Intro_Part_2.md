@@ -24,3 +24,41 @@ Connect different media
 
 ## Elemental Appliances & Softwarre 
 - Powerful media encoder
+
+---------
+## MACHINE LEARNING 
+
+## SageMaker
+- Fully-maanged to enable to build, train & deploy machine learning models
+## Comprehend
+## DeepLens
+## Lex
+## Machine Learning
+## Policy
+## Rekognition
+## Tanscribe
+## Tranlate
+## Personlize
+## Forecast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
