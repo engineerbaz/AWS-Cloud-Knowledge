@@ -31,10 +31,13 @@ Elemental is suite of services
 - Not an Storage devices!
 
 ## Media Tailor
-- Tailoring /insert adds in vedios
+- Tailoring /insert adds/advertisement in videos
+- Targeted audience 
 
 ## Elemental Appliances & Softwarre 
-- Powerful media encoder
+- Powerful media encoder which can take input from HDI-SDI , IP over ethernet or local files and produce ,multiple video output 
+- Web browser via HTML
+- Web services ReST interfaces
 
 ---------
 ## MACHINE LEARNING 
