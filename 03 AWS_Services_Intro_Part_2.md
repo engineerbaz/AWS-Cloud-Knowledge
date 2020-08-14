@@ -1,23 +1,34 @@
 # AWS Service Introduction Part 2
 
-## Media Servies 
+## MEDIA SERVICES
+Normally related to broadcasting channels like News channels
 
+## Elastic Transcoder
+- For conversion of media files for making it compatible to play on smartphones,PCs & Tablets
 
-## Media Connect
+## Kinesis video stream
+- Realtime 
+- Securely stream video from connected devices to AWS for analytics
+
+## Media Connect (Elemental)
 Connect different media 
+Elemental is suite of services 
 
 ## Media Convert (Elemental)
 - Its a file-based video transcoding service 
+- broadcast-grade
+- create video on demand 
 
-## Media Live 
+## Media Live (Elemental)
 - Broadast-grade live video 
 - Delivery to Broadast TV & internet-Connectedmultiscreen devices like TBs, Tablets
 
-## Media Package
+## Media Package (Elemental)
 - Prepares & protect video for delivery over the internet-Connectedmultiscreen
 
-## Media Store 
+## Media Store (Elemental)
 - Storage service for optimizing media for performace
+- Not an Storage devices!
 
 ## Media Tailor
 - Tailoring /insert adds in vedios
