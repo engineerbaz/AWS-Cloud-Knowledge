@@ -143,7 +143,7 @@ Some Speciality Tracks
 - Data Analytics
 - Database
 
-** 50% Discount if you have passed 1st exam.
+50% Discount if you have passed 1st exam
 
 ------
 
