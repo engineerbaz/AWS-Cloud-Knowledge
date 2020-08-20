@@ -1,5 +1,5 @@
 
-# AWS Service Introduction Part 1
+# AWS Service Introduction - Part 1
 ------------------------------------
 Total 165+ services covering Compute, Networking, Security, business application, IoT and etc
 
