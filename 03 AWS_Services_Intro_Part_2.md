@@ -23,13 +23,15 @@ Normally related to broadcasting channels like News channels
 
 ## Media Live (Elemental)
 - Broadast-grade live video 
-- Delivery to Broadast TV & internet-Connectedmultiscreen devices like TBs, Tablets
+- Delivery to Broadast TV & internet-Connected
+- multiscreen devices like TBs, Tablets
 
 ## Media Package (Elemental)
 - Prepares & protect video for delivery over the internet-Connectedmultiscreen
 
 ## Media Store (Elemental)
 - Storage service for optimizing media for performace
+- Low latency required to deliver live streaming video Content
 - Not an Storage devices!
 
 ## Media Tailor
@@ -45,20 +47,27 @@ Normally related to broadcasting channels like News channels
 ## MACHINE LEARNING 
 
 ## SageMaker
-- Fully-maanged to enable to build, train & deploy machine learning models
+- Fully-maanged to enable data sciientest to build, train & deploy machine learning models
+  
 ## Comprehend
 - National Language processing (NLP) uses ML to find insights & relationships in text
+  
 ## DeepLens
 - Its an harware
+- Fully programmable video camera 
 - Helps put deep learning 
 - programmable 
+- Worlds 1st wireless deep learning enabled video camera
+
 ## Lex
 - conversational interface using voice & text
 - advanced deep learning
-- ASR (Automatic Speech Recognition) for converting speech to text & National Language understanding 
+- ASR (Automatic Speech Recognition) for converting speech to text & National Language understanding (NLU)
+
 ## Machine Learning
 - AWS working for 20 years
 - Generic ML service
+
 ## Polly 
 - Convert text to speech
 - Language, accent, male or female will be asked
