@@ -1,3 +1,5 @@
+### Welcome EveryOne!! 
+
 The notes :memo: in this repository is comprehensive and written with the goal of knowledge sharing of AWS Cloud :cloud:
 
 - Good luck & enjoy studying! :coffee: 
@@ -17,6 +19,7 @@ The notes :memo: in this repository is comprehensive and written with the goal o
   - [AWS Regions & Avalailblity Zones](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/01c%20AWS_Regions_AZs.md)
 - AWS Services 
   - [Part 1](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/02%20AWS_Services_Intro_1.md) 
+  - [Part 2](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/03%20AWS_Services_Intro_Part_2.md)
 
 ![Learn AWS-Services](https://user-images.githubusercontent.com/56934817/89783056-bda6ea00-db2f-11ea-96e8-91f648cce438.png)
 
