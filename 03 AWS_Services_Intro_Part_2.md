@@ -4,7 +4,7 @@
 Normally related to broadcasting channels like News channels
 
 ## Elastic Transcoder
-- For conversion of media files for making it compatible to play on smartphones,PCs & Tablets
+- Used for media transcoding (conversion of media) of files for making it compatible to play on smartphones,PCs & Tablets
 
 ## Kinesis video stream
 - Realtime 
