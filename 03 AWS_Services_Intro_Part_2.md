@@ -71,18 +71,30 @@ Normally related to broadcasting channels like News channels
 ## Polly 
 - Convert text to speech
 - Language, accent, male or female will be asked
+
 ## Rekognition
 - provide pictorial / video analysis for objects
+
 ## Tanscribe
-- speech to text conversion 
+- automatic speech recognization (ASR)
+- speech to text conversion by using API
+
 ## Tranlate
-- Tranlate
+- Tranlate is a neural machine tranlation
+- can be used after Transcribe (converts text to speech) then translate it other Language
+
 ## Personlize
 - Personlize ML
+  
 ## Forecast
 - Using previous record 
+- Time series forcasting
+- useful in retail, financial planning, supply chain, 
+
 ## Textract
 - text Recognition in documents 
+- Analysis of your application
+
 ## DeepRacer
 - learning system for learn reinforcement 
 - automomus driver less 
@@ -93,32 +105,43 @@ Normally related to broadcasting channels like News channels
 ## Athena
 - interactiv query service for analyze data in S3 
 - Severless (no infrastructure to manage only pay for the queries you run)
+
 ## EMR
+- data platform for processing vast amounts of data using open source tools such as Apache Spark
 - Map reduce
-- Hadoopp Framework 
+
 ## CloudSearch
 - To set up , manage & scale a search solution
 - Its works on app
+
 ## Elasticsearch Service
 - log analytics for infra O&M
+ 
 ## Kinesis
 - Securing media stream 
 - Analyze as well
+
 ## Quick sight
 - Like Power BI 
 - Quick insights for your data 
+
 ## Data Pipeline
 - move data between AWS Services (Compute, Storage )
 - Also on-prem data sources at specified intervals
+
 ## Glue
-- etract, transform & load client to prepare & load data for analytics
+- extract, transform & load client to prepare & load data for analytics
 
 ## Lake Formation
 - Setup secure data lake in days 
 - centralized repo 
 
 ## MSK 
-- Managed Service Kafka
+- Managed Streaming for Apache Kafka
+- bild , run 
+- applications that use Apache Kafka to process Stream
+- Apache Kafka is OpenSource for Realtime streaming data PipeLine
+- 
 
 
 
