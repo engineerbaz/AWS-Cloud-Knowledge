@@ -11,13 +11,15 @@ Normally related to broadcasting channels like News channels
 - Securely stream video from connected devices to AWS for analytics
 
 ## Media Connect (Elemental)
-Connect different media 
-Elemental is suite of services 
+- Connect different media 
+- Distribute inside and outside the cloud
+- Elemental is suite of services 
+- 
 
 ## Media Convert (Elemental)
 - Its a file-based video transcoding service 
 - broadcast-grade
-- create video on demand 
+- create video on demand (VOD)
 
 ## Media Live (Elemental)
 - Broadast-grade live video 
