@@ -134,7 +134,8 @@ Lets you create and run VR & AR and 3D
 
 ## Budget
 - enbles you to plan service usage/Cost and instance reservation 
-- how close your 
+- how close your budget.
+  
 
 
 
