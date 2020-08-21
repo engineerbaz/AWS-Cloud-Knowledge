@@ -66,4 +66,72 @@ KMS > HSM
 - 2 stype of Shield 
 - shield can be attached to VMs
 
+## Artificat
+
+
+## Hub
+- Like Suite
+- single  place that aggregates organizes & prioritize your security
+
+-----
+
+# Mobile service
+
+## Amplify
+- CI of Hosting service for modern web application 
+
+## Mobile Hub
+- Featuure selection and configurtaion and automatically provisions 
+
+## App Sync
+- automatically updates the data in web and mobile application  in realtime and update data for offline users as they reconnect
+
+## Device Farm
+- App testing service taht lets you test and interact with android /IoS and web app 
+
+## Mobile Analytics
+
+# AR & VR 
+- Augmented Reality
+- service
+- Virtual Reality 
+- 
+## Sumerian
+Lets you create and run VR & AR and 3D 
+
+
+
+
+## Step Function
+- Makes easy to coordinate the component 
+
+
+## EventBridge
+- Serverless event bus service that makes easy to connect your application with data
+
+## MQ 
+- Message Queue
+- Message broker service for Apache ActiveMQ taht makes it easy to setup
+
+## SNS 
+- Simple Notification service
+- Via email, sms 
+- for security breach, high billing
+- cloud watch only generate event
+
+## SQS 
+- Simple Queue service
+- For queuing service, make it easy to decouple and scale microservices , distribution systems & serverless application
+
+
+## 
+
+
+
+
+
+
+
+
+
 
