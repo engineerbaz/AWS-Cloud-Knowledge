@@ -24,7 +24,40 @@
 ## Guard Duty
 - Manage threat detection service
 - IDS 
+- Check account
   
 ## Inspector 
 - Automated Security product
-- 
+- Check threat VM vulunerability
+
+
+## Macie
+- Security service that uses machine learning to automatically discover , classify & protect sensitive data 
+
+
+## SSO 
+- Single Sign-On (SSO) Makes it easy 
+
+******
+
+## Certificate Manager
+
+
+## KMS
+- Key Management Service
+- managed service to create the encryption keys used to encrypt data
+
+## CLoudhsm
+- Hardware Security Module
+- Hardware based that generate and use own encyption 
+
+KMS > HSM
+
+## Directory Service
+- Like Microsoft Active Directory
+- Managed service 
+- works on windows 7 , server 2012
+
+
+
+
