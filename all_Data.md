@@ -123,8 +123,34 @@ Lets you create and run VR & AR and 3D
 - Simple Queue service
 - For queuing service, make it easy to decouple and scale microservices , distribution systems & serverless application
 
+## SWS
+- Simple Workflow service 
 
-## 
+# COST Managemnet
+
+## Cost Explorer
+- Tool that Enables you to view and analyze your cost and usage
+
+
+## Budget
+- enbles you to plan service usage/Cost and instance reservation 
+- how close your 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
