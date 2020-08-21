@@ -125,17 +125,19 @@ Lets you create and run VR & AR and 3D
 
 ## SWS
 - Simple Workflow service 
+- Helps developers build, run, and scale background jobs that have parallel or sequential steps
+
+
+---
 
 # COST Managemnet
 
 ## Cost Explorer
 - Tool that Enables you to view and analyze your cost and usage
 
-
 ## Budget
 - enbles you to plan service usage/Cost and instance reservation 
 - how close your budget.
-
 
 ## Marketplace Subscription 
 - Its like Google playstore for android
@@ -144,18 +146,48 @@ Lets you create and run VR & AR and 3D
   - Owner
   - AWS resoource cost
 
+---
+
+# Customer Engagement
 
 ## Amazon Connect 
 - CCaS = Contact Center as Service 
 - Call Center services 
 
+# Pinpoint 
+- makes easy to engage customers by tracking the way in which they interact with Applications
+- A targeted push Notification and mobilr engagement 
+  
 ## SES 
 - Simple Email service
 - Cloud based email sending service 
 - like SMTP server
 
+---
+
+# Business Applications
+
 ## Alexa for businsess 
-- 
+- Can help people stay organized and focused thing that matter.
+- Hardware 
+
+## Chime
+- Communication software
+
+## Workmail 
+
+## WorkSpace 
+- DaaS = Desktop as a Service 
+- can easily provision virtual, Cloud-based microsoft windows Desktop
+- Horizan in VM 
+- Zen  Desktop in Citrix 
+- virtual PC in microsoft*
+- Horizan in VMware 
+
+## AppStream 2.0
+- only share some or one app to user 
+- ZenApp in Citrix
+- RemoteApp in microsoft
 
 
 
@@ -165,6 +197,31 @@ Lets you create and run VR & AR and 3D
 
 
 
+
+
+
+
+
+
+=================
+
+
+Basic AWS Job
+===========
+AWS
+Linux basics
+Network Basics
+
+Intermediate OR advanced AWS Job
+===========================
+AWS
+Linux
+Devops
+Network
+Scripting (JSON, Shell, )
+Security  
+
+=================================
 
 
 
