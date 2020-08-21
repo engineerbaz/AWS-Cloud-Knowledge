@@ -58,6 +58,12 @@ KMS > HSM
 - Managed service 
 - works on windows 7 , server 2012
 
-
+## WAF & Shield 
+- WAF is Web Application Firewall 
+- Lets you monitor web requests for Amazon Cloudfront distribution and restrict access to your contecnt
+- Shiel is managed DDoS protection service that safeguards web Application running on AWS
+- stateful
+- 2 stype of Shield 
+- shield can be attached to VMs
 
 
