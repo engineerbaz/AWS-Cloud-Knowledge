@@ -189,6 +189,97 @@ Lets you create and run VR & AR and 3D
 - ZenApp in Citrix
 - RemoteApp in microsoft
 
+## Workdocs
+- Secure , file collaboration and 
+
+## WorkLink 
+- Provides secure data
+
+----
+
+# IoT
+Internet of Things 
+
+## IoT Core 
+- secure, bi directional Communication between inter-Connected device 
+  - Sensor
+  - Actuators
+  - Embeded microcontrollers 
+  - smart Applications
+  - AWS Cloud 
+- possible to collect telmetry data form multiple device and store and analyze data
+
+
+## FreeRTOS
+- Free RealTimer OS  
+
+## IoT Evernt 
+
+## Greengrass
+
+## SiteWise 
+- For Industrial 
+
+## IoT 
+
+----
+
+# Game 
+
+## Gamelift 
+
+## RoboMaker
+- Robot OS  
+
+
+## Managed BlockChain 
+- For 
+
+## Ground Station
+- Enables you to control satellite Communication, downlink and process satellite and data 
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
