@@ -135,7 +135,27 @@ Lets you create and run VR & AR and 3D
 ## Budget
 - enbles you to plan service usage/Cost and instance reservation 
 - how close your budget.
-  
+
+
+## Marketplace Subscription 
+- Its like Google playstore for android
+- Like Cisco sell Virtual Firewall
+- Two prices involved
+  - Owner
+  - AWS resoource cost
+
+
+## Amazon Connect 
+- CCaS = Contact Center as Service 
+- Call Center services 
+
+## SES 
+- Simple Email service
+- Cloud based email sending service 
+- like SMTP server
+
+## Alexa for businsess 
+- 
 
 
 
