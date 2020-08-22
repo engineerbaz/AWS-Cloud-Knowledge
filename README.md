@@ -11,6 +11,9 @@ The notes :memo: in this repository is comprehensive and written with the goal o
 
 AWS being the market leader in cloud world.
 
+![Cloud](https://en.wikipedia.org/wiki/Amazon_Web_Services#/media/File:Amazon_Web_Services_Logo.svg)
+
+
 # AWS Cloud 
 
 ## **Table of Content**
