@@ -9,6 +9,8 @@ The notes :memo: in this repository is comprehensive and written with the goal o
 
 **Amazon Web Services** ([AWS](https://aws.amazon.com/what-is-aws/?nc1=f_cc)) is a collection of various Cloud Computing services and applications that offers flexible, reliable, easy-to-use, and cost-effective solutions.
 
+AWS being the market leader in cloud world.
+
 # AWS Cloud 
 
 ## **Table of Content**
@@ -20,7 +22,7 @@ The notes :memo: in this repository is comprehensive and written with the goal o
 - AWS Services 
   - [Part 1](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/02%20AWS_Services_Intro_1.md) 
   - [Part 2](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/03%20AWS_Services_Intro_Part_2.md)
-  - Part 3 
+  - [Part 3](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/04_AWS_Services_Intro_3.md) 
 
 ![Learn AWS-Services](https://user-images.githubusercontent.com/56934817/89783056-bda6ea00-db2f-11ea-96e8-91f648cce438.png)
 
