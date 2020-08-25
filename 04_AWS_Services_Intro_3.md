@@ -217,9 +217,12 @@ Internet of Things
 
 ## Greengrass
 
+
+
 ## SiteWise 
 - Can collect, organize,search, & consume equipment data form Industrial equipment at scale
 - provides Gateway software 
+- GW can read data directly from server 
 
 ## IoT Things Graph
 - Orchestation service simplifies IoT deployment
