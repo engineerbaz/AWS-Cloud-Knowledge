@@ -219,7 +219,7 @@ Internet of Things
 
 ## SiteWise 
 - Can collect, organize,search, & consume equipment data form Industrial equipment at scale
-- 
+- provides Gateway software 
 
 ## IoT Things Graph
 - Orchestation service simplifies IoT deployment
