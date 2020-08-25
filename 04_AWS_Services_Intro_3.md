@@ -215,7 +215,10 @@ Internet of Things
 - OpenSource
 
 ## 1-Click 
-- Makes easier to 
+- Makes easier for enterprise customers to incorporate simple IoT devices into their Workflow 
+- these devices can securely connect to AWS IoT 
+- these device can trigger Lambda function (in Java, Phython, C#)
+
 ## IoT Evernt 
 - 
 ## Greengrass
