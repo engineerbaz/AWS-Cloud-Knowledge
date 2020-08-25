@@ -218,25 +218,29 @@ Internet of Things
 ## Greengrass
 
 ## SiteWise 
-- For Industrial 
+- Can collect, organize,search, & consume equipment data form Industrial equipment at scale
+- 
 
-## IoT 
+## IoT Things Graph
+- Orchestation service simplifies IoT deployment
 
 ----
 
-# Game 
+# Game /Robotic/ BlockChain / satellite
 
 ## Gamelift 
-
+- Managed Service for deploying, Operating & scaling dedicated game server for session based multi player ganes
+  
 ## RoboMaker
-- Robot OS  
-
+- Robot OS makes it easier for creating robitcs application at scale
+- extends the ROS (Robotic OS) framework to cloud
 
 ## Managed BlockChain 
-- For 
+- For creating & managing BlockChain Network using Open source framework
 
 ## Ground Station
-- Enables you to control satellite Communication, downlink and process satellite and data 
+- Enables you to control satellite Communication, 
+- dDownlink and process satellite and data 
 
 ---
 
