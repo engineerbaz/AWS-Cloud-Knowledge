@@ -232,9 +232,12 @@ Internet of Things
 - Can be phsical device(bulb, light)
 
 ## IoT Evernt 
+- monitor or device for failure or change in operation
+- continously watches IoT sensor data from devices, processes, application and other AWS services 
 - 
 ## Greengrass
-
+- Extends Cloud capabilities to local devices
+- 
 
 
 ## SiteWise 
