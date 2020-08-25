@@ -208,13 +208,16 @@ Internet of Things
   - smart Applications
   - AWS Cloud 
 - possible to collect telmetry data form multiple device and store and analyze data
-
-
+- can create application that Enables your user to control these devices from their phone
+  
 ## FreeRTOS
-- Free RealTimer OS  
+- Free RealTime OS  that augment FreeRTOS kernel with libraries for connectivity, security, and over-the-air (OTA) updates 
+- OpenSource
 
+## 1-Click 
+- 
 ## IoT Evernt 
-
+- 
 ## Greengrass
 
 
