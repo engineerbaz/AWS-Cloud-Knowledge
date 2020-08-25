@@ -173,8 +173,15 @@ Lets you create and run VR & AR and 3D
 
 ## Chime
 - Communication software
+- onine meeting 
 
 ## Workmail 
+- secure business email 
+- calendar integrated 
+- Desktop and mobile app 
+
+-----
+# END USER COMPUTING 
 
 ## WorkSpace 
 - DaaS = Desktop as a Service 
@@ -190,13 +197,12 @@ Lets you create and run VR & AR and 3D
 - RemoteApp in microsoft
 
 ## Workdocs
-- Secure , file collaboration and 
+- Secure , file collaboration and Managemnet service with extensible SDK
 
 ## WorkLink 
-- Provides secure data
+- Provides secure to internal website / app from mobile(IoS/android)
 
 ----
-
 # IoT
 Internet of Things 
 
@@ -237,8 +243,8 @@ Internet of Things
 - 
 ## Greengrass
 - Extends Cloud capabilities to local devices
-- 
-
+- Allows local devices to collect and analyze data closer to source of info
+- Greengrass developers can use Lambda function to create Serverless application to local execution
 
 ## SiteWise 
 - Can collect, organize,search, & consume equipment data form Industrial equipment at scale
