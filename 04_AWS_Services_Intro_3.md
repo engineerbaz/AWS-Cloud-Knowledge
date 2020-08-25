@@ -219,6 +219,18 @@ Internet of Things
 - these devices can securely connect to AWS IoT 
 - these device can trigger Lambda function (in Java, Phython, C#)
 
+## Analytics
+- Automates step required to analyze data to IoT devices 
+- Filters, transforms, and enrich IoT before storing 
+
+## Device Defender 
+- Audit configurtaion , monitor connected devices & mitigation of security threat
+- enforces consistent security policies across all IoT devices
+
+## Device Management
+- A registry that helps to manage things (specific device or logical entity)
+- Can be phsical device(bulb, light)
+
 ## IoT Evernt 
 - 
 ## Greengrass
