@@ -215,7 +215,7 @@ Internet of Things
 - OpenSource
 
 ## 1-Click 
-- 
+- Makes easier to 
 ## IoT Evernt 
 - 
 ## Greengrass
