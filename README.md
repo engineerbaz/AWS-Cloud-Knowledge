@@ -1,6 +1,7 @@
 ### Welcome EveryOne!!!
 
 The notes :memo: in this repository is comprehensive and written with the goal of knowledge sharing of AWS Cloud :cloud:
+⛈️
 
 - Good luck & enjoy studying! :coffee: 
 -  #### Contributions of any kind are welcome! :sparkles:
@@ -30,6 +31,7 @@ AWS being the market leader of the cloud world.
   - [Part 4](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/04_AWS_Services_Intro_3.md) 
 
 ![Learn AWS-Services](https://user-images.githubusercontent.com/56934817/89783056-bda6ea00-db2f-11ea-96e8-91f648cce438.png)
+
 
 
 
