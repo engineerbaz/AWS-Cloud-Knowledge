@@ -27,7 +27,7 @@ Normally related to broadcasting channels like News channels
 - multiscreen devices like TBs, Tablets
 
 ## Media Package (Elemental)
-- Prepares & protect video for delivery over the internet-Connectedmultiscreen
+- Prepares & protect video for delivery over the internet-Connected multiscreen
 
 ## Media Store (Elemental)
 - Storage service for optimizing media for performace
@@ -38,7 +38,7 @@ Normally related to broadcasting channels like News channels
 - Tailoring /insert adds/advertisement in videos
 - Targeted audience 
 
-## Elemental Appliances & Softwarre 
+## Elemental Appliances & Software 
 - Powerful media encoder which can take input from HDI-SDI , IP over ethernet or local files and produce ,multiple video output 
 - Web browser via HTML
 - Web services ReST interfaces
