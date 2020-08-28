@@ -8,7 +8,9 @@ Total 165+ services covering Compute, Networking, Security, business application
 - migration & transfer
 - Analytics
 - Special (IoT/ML/AI)
-  
+
+[AWS Documentation ](https://docs.aws.amazon.com/index.html)
+
 # COMPUTE
 
 ## EC2:
@@ -60,5 +62,112 @@ Total 165+ services covering Compute, Networking, Security, business application
 - Managed Repository for Serverless application
 - Allows to find, deploy, publish, share, store & assemble serverless architecture
 
-
 --------
+
+# STORAGE
+
+## AWS S3 
+- Simple Storage service (S3)
+- Object Storage service
+- Google cloud Storage In Google , OSS in Alibaba
+- Virtually unlimited. 
+- Max. PUT size is 5GB
+- Object can be uploaded of max 5TB 
+- Works on Linux & Windows both
+- 99.999999999% durability
+
+## EFS 
+- Elastic File System 
+- works on Linux 
+- Like NFS
+- Elastic means  can grow up and down
+- Connect using IP of DNS name
+
+Object = dynamic </br>
+Block = Fixed like HDD
+
+## FSx
+- FsX = for Windows 
+- It needs Active Directory 
+- two types
+  - Windows File server
+    - Native windows FS
+  - Lustre
+    - Optimized for compute-intensive workload
+
+EFS uses EXT4 </br>
+FSX uses SMB in window 
+
+## S3 Glacier
+- Glacier like archive for long time 
+- 9.999999999 % durability
+- Police record, medical &  financial record. 
+- Cheap service 
+
+## Storage Gateway
+- hybrid storage service that enables On Prem application to seamlessly use AWS Cloud = 
+- Need VPN
+  
+Cache based = main data in cloud and cache on-prem </br>
+Volume-based. =  data of branch to move to HQ
+
+## Backup 
+- To schedule backup of any service 
+- Easy to centralize and automate the backup of data across AWS services & on-Prem
+
+
+--------------
+
+# DATABASE
+
+## RDS 
+- Relational Database Service
+- Makes it easy to setup, Operate & Scale a relational DB in cloud
+- suite of DB
+- DB Server can run 6 types of DB
+  - Arora 
+    - AWS propertiship
+  - Postgre SQL, MYSQL, MariaDB
+    - Community based (They are OpenSource but needs to pay for machine/compute) 
+  - Oracle & Microsft 
+    - License & Compute Charges also 
+
+- Oracle license (per month charges )
+ - EE Enterprise (6 months free )
+ - SE = Standard Edition
+
+- Microsoft license 
+  - Express &  Web --  Free
+  - Standard & Enterprise -- charged
+
+## DynamicDB 
+- No SQL query like MangoDB
+- Fast & Flexible, Low latency
+- DynamoDB can handle more than 10 trillion requests per day and can support peaks of more than 20 million requests per second.
+
+## ElastiCache
+- Redis and Memcached (Open Sourced, server cost is charged)
+- Popular for Gaming, FinTech, IoT
+
+## Neptune
+- Fast reliable graph Database
+- Core of Neptune is for HP graph DB , can store billions of relationships and queries in msec latency
+
+## RedShift
+- Amazon Redshift is a fast, fully managed, petabyte-scale data warehouse 
+- Like Data warehouse 
+
+## QLDB 
+- Quantum Ledger DB
+- Fully Managed Ledger Database
+- Transparent, Immutable & Cryptographically verifiable transaction log
+- Fully managed (managed by AWS)
+
+
+## Document DB
+- MongDB compatible DB
+- Fast, reliable, Fully managed
+
+Lab for RDS & DynamicDB
+
+--------------
