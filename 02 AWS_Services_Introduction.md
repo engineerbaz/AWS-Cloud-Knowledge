@@ -171,3 +171,118 @@ Volume-based. =  data of branch to move to HQ
 Lab for RDS & DynamicDB
 
 --------------
+# Migration & transfer
+
+## Migration Hub
+- A single location to track progress of application migration across multipleAWS & Partnar solutions
+- Alos provide Key metrics and progress
+
+## Application Discovery Service
+- helps Enterprise customers to plan migration by gathering information about on-prem DC
+
+## Database migration Service
+- Helps you to migrate DB to AWS quickly & securely
+
+## Server Migration Service
+- SMS is an agentless service makes it easier and faster to migrate thousnad of on-prem workload to AWS
+
+## AWS Transfer for SFTP
+
+- Fully managed service enables to transfer files over SFTP (Secure FTP), into & out of Amazon S3
+- SFTP is also known as SSH FTP (Secure Shell)
+- used to exchange workflow across different industries (FinTech, Health, retails)
+
+## Snowball
+- petabyte-scale data transport solution that uses apploances to transfer large amount in/out to cloud
+
+## DataSync
+- Data transfer service that simplifies, automates, accelerates moving & replicating data bw on-prem storage & AWS Storage over internet or AWS DirectConnect
+- It remobves the need to modify applications, Develop screipt or manage Infrastructure
+
+------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------
+
+# NETWORK & CONTENT DELIVERY 
+
+Network services Works on Layer 2 /3 and 4 </br>
+Content delivery = sharing caching data 
+
+- VPC = Virtual Private Cloud 
+- Network of Router, Switches, Firewall 
+- VPN, NAT Gateway
+
+All Nodes (Routers, Switch etc) are virtual as they are not physical
+</br>
+Can a VPC consist of multiple region VMs? No
+
+## Cloud Front
+- It is like CDN Cache Data Network 
+- Clone of your data can be placed in different location where your user location so low latency and fast
+
+## Route 53
+- 53 port number 
+- DNS based service 
+- Domain Name ,DNS record, Zones
+
+## API GW
+- monitor/create publish APIs 
+- API = Application Programmable In
+
+## Direct Connect 
+- The connection between your location and AWS 
+- Dedicated fiber line
+- Till 10Gbps speed, Where VPN is around 300mbps (or depends on speed you have)
+
+We can use any other DNS services than route 53, can we?  YES but no routing functionality 
+
+## APP mesh
+- For E2E visibility of microservices for high availability
+
+## Cloud Map 
+- Discovery service of  all your running services 
+
+## Global Accelerator
+- Network Layer service direct traffic to optimal end points 
+- Improves availability
+
+---------------------
