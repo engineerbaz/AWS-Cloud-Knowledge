@@ -199,27 +199,7 @@ Lab for RDS & DynamicDB
 - Data transfer service that simplifies, automates, accelerates moving & replicating data bw on-prem storage & AWS Storage over internet or AWS DirectConnect
 - It remobves the need to modify applications, Develop screipt or manage Infrastructure
 
-------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---------
 
 
 
