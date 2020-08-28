@@ -201,25 +201,6 @@ Lab for RDS & DynamicDB
 
 ---------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -----------------
 
 # NETWORK & CONTENT DELIVERY 
