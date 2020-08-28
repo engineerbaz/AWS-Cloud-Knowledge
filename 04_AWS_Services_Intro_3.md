@@ -100,7 +100,7 @@ KMS > HSM
 Lets you create and run VR & AR and 3D 
 
 
-
+-----
 
 ## Step Function
 - Makes easy to coordinate the component 
@@ -156,7 +156,7 @@ Lets you create and run VR & AR and 3D
 
 # Pinpoint 
 - makes easy to engage customers by tracking the way in which they interact with Applications
-- A targeted push Notification and mobilr engagement 
+- A targeted push Notification and mobile engagement 
   
 ## SES 
 - Simple Email service
