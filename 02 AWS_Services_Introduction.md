@@ -293,3 +293,116 @@ debug for coding
 trouble for infra issues  
 
 --------------------
+
+# DEVELOPER TOOLs
+
+## Code Star 
+- Develop/build & deploy  apps on AWS 
+
+Code Star & BeanStalk slightly overlaps ?
+</br>
+Code Star is like to VS Code 
+At Beanstalk is a real location where the app is deployed ( can be deployed in Docker, lambda function 
+Supports JS, Ruby, Python PHP
+
+## Code Commit
+- Source Control Service Like GIthub, Gtlab, Bitbucket
+
+## Code Build
+- Compiles code and run test & produce software
+- Dry run (unit testing)
+
+## Code Deploy
+- Automates software deployment to EC2, Lambda or on-prem
+
+## Code PipeLine
+- Its continuous integration and continuous integration for update
+
+## Code Cloud9
+- Its IDE (Integrated Development Environment) like Eclipse, visual code, atom & sublime
+
+## X-Ray
+- For analysis, debug and troubleshooting
+
+debug for coding
+trouble for infra issues  
+
+--------------------
+
+# MANAGEMENT & GOVERNANCE
+ 
+## AWS Organization 
+- Account management system 
+- For consolidated billing and control of multiple accounts
+
+## Cloud Watch 
+- Monitoring service and alert as well
+- Can work for EC2 instances, DynamicDB Table, RDS DB instances or custom materics
+
+## Auto Scaling 
+- Horizontal scaling 
+- Adjust capacities to maintain performance in lowest cost
+- 
+
+## Cloud Formation 
+- A Common Language to describe & provision all infrastructurein  Cloud network (that is used for future reference ) 
+- Infra aaS
+- YAML, JASON can be used.
+- Deployment manager in GCP, Resource Manager in Azure 
+- Terraform can make any resource
+
+Programing for App development 
+Coding for Infrastructure
+
+## Cloud Trail 
+- Audit logs for compliance 
+- Operational & Risk auditing
+
+## AWS Config 
+- For enabling assess audit and evaluate configuration 
+
+## OpsWork
+- Its a Configuration Management 
+- use code to automate the configurations of your servers.
+- Ansible, 
+- Allow automated Config management
+- Chef & Puppet = opswork
+
+## Service Catalog
+- Create catalog IT services
+- including everything (images, server, SW, HW, DB)
+
+## System Manager 
+- Gives visibility and control AWS infrastructure
+- For getting Inventory management 
+- Help in getting access in VMs Using SDK (without Putty)
+
+## Truster Advisor 
+- For suggestion to reduce cost, increase service performance
+- real time guidance
+
+## Managed Service 
+- service for automating infra management task 
+- for large Enterprises in migration
+
+## Control Tower 
+- To set up a secure account
+- best practices
+
+## License Manager 
+- For license migration
+- BYOL = Bring Your Own Li
+
+## WA Tool
+- Well Architecture Tool
+- throughout product cycle 
+- For suggesting best practices
+
+## Health Dashboard
+- NMS of regions
+- Dashboard for health of AWS services 
+
+## Chatbot
+- To automate answer queries using SLACK
+
+----------------
