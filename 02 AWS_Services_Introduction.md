@@ -261,6 +261,7 @@ We can use any other DNS services than route 53, can we?  YES but no routing fun
 
 ## Code Star 
 - Develop/build & deploy  apps on AWS 
+- Dashboard for all software development
 
 Code Star & BeanStalk slightly overlaps ?
 </br>
@@ -275,17 +276,18 @@ Supports JS, Ruby, Python PHP
 - Compiles code and run test & produce software
 - Dry run (unit testing)
 
-## Code Deploy
+## CodeDeploy
 - Automates software deployment to EC2, Lambda or on-prem
+- helps in avoiding downtime during updates /rollout
 
 ## Code PipeLine
-- Its continuous integration and continuous integration for update
+- Its continuous integration and continuous integration for application and infrastructure update
 
 ## Code Cloud9
 - Its IDE (Integrated Development Environment) like Eclipse, visual code, atom & sublime
 
 ## X-Ray
-- For analysis, debug and troubleshooting
+- Analyze, debug and troubleshooting
 
 debug for coding
 trouble for infra issues  
