@@ -172,7 +172,7 @@ We can use any other DNS services than route 53, can we?  YES but no routing fun
 - Network Layer service direct traffic to optimal end points 
 - Improves availability
 
----------------------
+---------------------***
 
 # DEVELOPER TOOLs
 
