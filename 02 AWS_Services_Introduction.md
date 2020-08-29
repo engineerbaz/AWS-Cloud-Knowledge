@@ -216,6 +216,11 @@ All Nodes (Routers, Switch etc) are virtual as they are not physical
 </br>
 Can a VPC consist of multiple region VMs? No
 
+## VPC
+- Virtual Private Cloud
+- Logically isolated section in AWS Cloud, resource can be launched
+- both IPv4 and IPv6 can work
+
 ## Cloud Front
 - It is like CDN Cache Data Network 
 - Clone of your data can be placed in different location where your user location so low latency and fast
