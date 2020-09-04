@@ -239,7 +239,25 @@ Internet of Things
 - Enables you to control satellite Communication, downlink and process satellite and data 
 
 ---
+===========================================================================================
 
+# Trusted Advisor
+
+There are 5 parameter on which basis of trusted Advisor works
+
+## Cost Optimization
+- Tells how to optimized costing 
+- 
+## Perfomance 
+- How to manage KPI
+  
+## Security
+- If any unused port is open
+  
+## Fault Tolerance 
+
+## Service Limits
+- max limit is 20 in a region
 
 
 
