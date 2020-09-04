@@ -346,11 +346,30 @@ By default log time is 90 days , otherwise need to archive in S3 buckets for yea
 - restrict priviliged access furtehr with CONDITIONS
 - reduce or remove use of ROOT 
 
+-------
+
+## Virtual Tour AWS
+
+- AWS IQ 
+  - Its like a freelancing platform
+
+- Every region has different capabilities 
+  - different amount available
+
+- Resource Groups are like favourities/bookmark
+
+- Searcing any service
+  - By Groups
+  - alphabetical order
+  - Writing by search
 
 
+## LAB - Trusted Advisor
+- Global
+- If 50% information error then becomes critical 
+- 
 
-
-
+May b... Linux is comparatively more secure than windows
 
 
 
