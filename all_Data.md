@@ -276,10 +276,126 @@ There are 5 parameter on which basis of trusted Advisor works
 
 
 # CloudTrail
+For Auditing services
+- Governance
+  - ISO27001, 27003, PCI DSS , etc 
+- Compilance
+- Operational Auditing
+- Risk Auditing
+
+</br>
+By default log time is 90 days , otherwise need to archive in S3 buckets for years </br>
+
+- Integration with AWS CloudWatch logs
+- Security Automation
+- Security Analysis & Troubleshooting 
+- Event History
+- Multi Region configurtaion
+- Log File encryption
+- Log File Integrity Validation 
+- Data Event
+- AWS Lambda
+
+## IAM
+- Identity & Access Managemnet 
+  - Enables you to 
+  - Free Service
+  - Global 
+
+## Root account
+- First time account
+- Max options available
+
+## IAM Features
+- Shared access to AWS account
+  - Grant same permission to group of people
+- Multi Factore authetication 
+  - 2-Factor authetication
+- Identity Federation 
+  - Admin can allow users who already have password 
+  - incorporate Network 
+- Identity information Assurance
+- GRanular permission
+  - Can grant different permission to different people for different resource
+
+### Manage IAM Users & their access
+
+
+- Access ID - if console
+- Username & password - if using chrome 
+
+
+- Role > resource
+- group > users 
+
+## Manged Federated users & their permission 
+- Enables Identity federation to allow existing Identities (user, group & roles) 
+- supports SAML 2.0
+
+
+### Best Practice
+- Create individual USERS
+- Manage permission with GROUPS
+- Grant least PERMISSION 
+- Turn on AWS CloudTrail for AUDIT
+- Configure strong PASSWORD 
+- Enable MFA for privileged users 
+- use IAM ROLES for Amazon EC2 instance
+- use IAM roles for SHARE Access
+- ROTATE security credentials regularly
+- restrict priviliged access furtehr with CONDITIONS
+- reduce or remove use of ROOT 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'
 
 
 
