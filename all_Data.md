@@ -298,15 +298,17 @@ By default log time is 90 days , otherwise need to archive in S3 buckets for yea
 
 ## IAM
 - Identity & Access Managemnet 
-  - Enables you to 
+  - Enables you to manage access to AWS Service & resources securely.
+  - Access to AWS & Authorization to service
   - Free Service
-  - Global 
+  - Global so same Username/password works on all regions
 
-## Root account
-- First time account
+### Root account
+- First time account, who sign up 
+- No rule applied 
 - Max options available
 
-## IAM Features
+### IAM Features
 - Shared access to AWS account
   - Grant same permission to group of people
 - Multi Factore authetication 
@@ -319,9 +321,13 @@ By default log time is 90 days , otherwise need to archive in S3 buckets for yea
   - Can grant different permission to different people for different resource
 
 ### Manage IAM Users & their access
-
-
-- Access ID - if console
+- IAM Access can be created using 
+  - AWS Management console
+  - AWS Command Line Tool
+  - API
+  - SDK
+  
+  - Access ID - if console
 - Username & password - if using chrome 
 
 
@@ -384,12 +390,23 @@ May b... Linux is comparatively more secure than windows
 
 ================================================
 # LAB - CloudTrail
+
 - CloudTrail is a regional service
 - 90 days logs
 - not writeable
 - read only
 - Trail is created for accessing data for more than 90 days 
-- Trail created in North Viriginia will be globally.
+- Log data is available after 24hours of creation of Trail
+- Trail created in **North Viriginia will be globally**.
+- Key Points
+  - Prefix = Folder in S3
+  - Tags = Labels
+  - Types of Event 
+    - Management = O&Management
+    - Data event = logs inside of resouce
+    - Insight = logs related to sign-in , out.
+  - CloudTrail logs is created in a folder in S3 
+  - Data Formate is YYYYMMDDT
 
 
 
