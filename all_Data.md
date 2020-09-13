@@ -338,11 +338,10 @@ By default log time is 90 days , otherwise need to archive in S3 buckets for yea
 - Enables Identity federation to allow existing Identities (user, group & roles) 
 - supports SAML 2.0
 
-
 ### Best Practice
 - Create individual USERS
 - Manage permission with GROUPS
-- Grant least PERMISSION 
+- Grant least PERMISSION / privilege
 - Turn on AWS CloudTrail for AUDIT
 - Configure strong PASSWORD 
 - Enable MFA for privileged users 
@@ -352,6 +351,7 @@ By default log time is 90 days , otherwise need to archive in S3 buckets for yea
 - restrict priviliged access furtehr with CONDITIONS
 - reduce or remove use of ROOT 
 
+* Microsoft Active Directory suggestes 42 days credential change 
 -------
 
 ## Virtual Tour AWS
@@ -409,7 +409,12 @@ May b... Linux is comparatively more secure than windows
   - Data Formate is YYYYMMDDT
 
 
-
+# LAB - IAM
+- Create User, Group & roles
+- Create & delete user access keys
+- Create custom policy
+- MFA
+- KMS encryption configurtaion & implementation
 
 
 
