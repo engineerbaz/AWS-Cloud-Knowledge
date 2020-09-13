@@ -382,6 +382,14 @@ May b... Linux is comparatively more secure than windows
 
 </br>
 
+================================================
+# LAB - CloudTrail
+- CloudTrail is a regional service
+- 90 days logs
+- not writeable
+- read only
+- Trail is created for accessing data for more than 90 days 
+- Trail created in North Viriginia will be globally.
 
 
 
