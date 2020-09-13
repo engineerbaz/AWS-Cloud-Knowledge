@@ -410,11 +410,63 @@ May b... Linux is comparatively more secure than windows
 
 
 # LAB - IAM
+**Tasks**
 - Create User, Group & roles
 - Create & delete user access keys
 - Create custom policy
 - MFA
 - KMS encryption configurtaion & implementation
+
+
+users > human
+group > combination of account/user
+roles > for services
+customized managed policies > policy on group
+Identity provider > outside AWS
+
+Security Status 
+- MFA
+- create individual IAM users 
+- use group to assign perission 
+- apply an IAM policy
+
+
+### User
+- Select AWS Access Type 
+  - Access 
+    - Access Key ID 
+    - Secret access keys
+  - Management console
+    - password 
+
+- Managed Policy
+  - Can be used many users 
+- Inline Policy 
+  - for only one user 
+
+## Role 
+Roles can be applied on 
+- AWS Service
+- Another AWS Account 
+- Web Identity
+- SAML 2.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
