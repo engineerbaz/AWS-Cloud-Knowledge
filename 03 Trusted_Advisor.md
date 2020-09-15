@@ -1,7 +1,10 @@
 
 # Trusted Advisor
+- Its online resource to help reduce cost, increase Perfomance and improve security by optimizing AWS enviornment
+- Realtime guidance to follow AWS best Practice
+- Cloud expert, helps to observe best Practice for use of AWS 
+- - There are 5 parameter on which basis of trusted Advisor works
 
-There are 5 parameter on which basis of trusted Advisor works
 
 ## Cost Optimization
 - Tells how to optimized costing 
