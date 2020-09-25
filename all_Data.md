@@ -451,16 +451,103 @@ Roles can be applied on
 - Web Identity
 - SAML 2.0
 
+================================================
+# S3 
+- Simple Storage Solution (S3)
+- Object based 
+- Like PAYU (Pay As You Use)
+- For storing files and folders 
+- Scalable (Either 1MB or 1TB)
+- Global Service
+- Resource called bucket
+- S3
+  - S3 is a universal namespace, name must be unique
+  - PUT = upload
+  - GET = Download
+
+- S3 Object 
+  - Key 
+  - Value
+  - Version ID
+  - /
+
+- Types 
+  1. S3 Standard
+  2. Intelligent Tiering
+    - When data/user-base is frequently changing 
+  3. S3 Standard IA 
+      - less frequent
+      - Infrequent Access 
+  4. Single Zone.
+      - same as standard IA + When dependent in a single zone
+  5. Glacier
+    - When data needs to be archived in 3 - 5 hours
+  6. Deep archive
+    - Whne needs 5 - 12 hours time 
+
+- AWS Features
+  - S3 batch 
+  - Versioning
+    - bydefault not enabled
+    - Once enabled, only able to be suspend
+  - MFA 
+  - S3 Object Lock
+    - Enforce WORM (Write-Once-Read-Many)
+  - ..
+  - Cost Allocation
+  - Storage Class Analytics
+  - CloudWatch Metric in S3
+  - CloudTrail
+  - .
+  - IAM 
+  - Control List 
+  - ..
+  - Presigned URL  
+  - Audit Log
+  - SSE
+  - VPC Endpoint
+    - data between VPC & S3 
+    - Within AWS services 
+  - encryption
+  - Inventory
+  - Amazon Macie
+    - For Machine 
+  - S3 Select
+  - Athena 
+    - analyze data in S3
+    - serverless
+  - Transfer Acceralation 
+
+- Free Software for Transfer data to S3
+- s3 browser
+- cloud berry lab
 
 
+# LAB S3 
+-----
+- Create S3 bucket
+
+ARN (Amazon Resource Nummber)
+arn:aws:s3:::s3bazs3
+
+=====
 
 
+# Cloudfront
+- Its like CDN 
+- Content Delivery Network. 
+- For caching web files 
+- 216 POP (205 Edge location , 11 Regional Edge Cache)
 
+## Content Delivery
 
-
-
-
-
+## CF Features
+- Faster Perfomance & Simple
+  - Requester pays 
+- Can be used with other AWS Service
+- Elastic 
+- Reliable
+- Origin Failover 
 
 
 
