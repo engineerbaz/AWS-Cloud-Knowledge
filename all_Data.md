@@ -513,7 +513,8 @@ Different SC for different puposes.
   - Versioning
     - bydefault not enabled
     - Once enabled, only able to be suspend
-  - MFA 
+  - MFA
+    - For deletion
   - S3 Object Lock
     - Enforce WORM (Write-Once-Read-Many)
   - ..
