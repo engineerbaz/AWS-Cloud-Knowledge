@@ -486,9 +486,11 @@ Can also has ACL.
     - stores data in two tiers
       - optimized for frequent access 
       - lower cost tier, optimized for Infrequent access
-  3. S3 Standard IA 
-      - less frequent
-      - Infrequent Access 
+  3. Infrequent Access
+     1. S3 Standard IA 
+      - less frequently accessed but requires rapid access
+      - lower fee than s3;
+      - but Reterival fee 
   4. Single Zone.
       - same as standard IA + When dependent in a single zone
   5. Glacier
