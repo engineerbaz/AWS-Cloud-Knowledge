@@ -475,10 +475,17 @@ Roles can be applied on
   - Metadata = data about data 
 Can also has ACL. 
 
-- Types 
+- Amazon s3 Storage Classes
   1. S3 Standard
+   -  Offers high durability, availablity & performance for frequently accessed data
+   -  Delivers Low latency & high throughput
   2. Intelligent Tiering
+    - Unknown & Changing access 
     - When data/user-base is frequently changing 
+    - using for optimizing cost by automatically movingd data to most cost efficient access tier without performance impact
+    - stores data in two tiers
+      - optimized for frequent access 
+      - lower cost tier, optimized for Infrequent access
   3. S3 Standard IA 
       - less frequent
       - Infrequent Access 
