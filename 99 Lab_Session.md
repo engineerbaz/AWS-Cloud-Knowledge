@@ -72,5 +72,16 @@ Roles can be applied on
 
 
 ----
+# LAB S3 
+-----
+1. Create S3 bucket with unique name.
+2. Create & enable Versioning, encryption & tags.
+3. Create 53 bucket policy & apply on bucket.
+4  Deploy static website hosting & verify.
+5. Create life cycle rule.
+6. Change S3 storage types
 
 
+
+ARN (Amazon Resource Nummber)
+arn:aws:s3:::s3bazs3
