@@ -475,30 +475,40 @@ Roles can be applied on
   - Metadata = data about data 
 Can also has ACL. 
 
-- Amazon s3 Storage Classes
+## Amazon S3 Storage Classes
+Different SC for different puposes. 
+
+### General Purpose
   1. S3 Standard
    -  Offers high durability, availablity & performance for frequently accessed data
    -  Delivers Low latency & high throughput
+### Unknown & Changing Access 
   2. Intelligent Tiering
-    - Unknown & Changing access 
     - When data/user-base is frequently changing 
     - using for optimizing cost by automatically movingd data to most cost efficient access tier without performance impact
     - stores data in two tiers
       - optimized for frequent access 
       - lower cost tier, optimized for Infrequent access
-  3. Infrequent Access
-     1. S3 Standard IA 
+### Infrequent Access
+  3. S3 Standard IA 
       - less frequently accessed but requires rapid access
       - lower fee than s3;
-      - but Reterival fee 
-  4. Single Zone.
+      - but Retrieval fee 
+  4. S3 One Zone IA
+      - lower cost for Infrequently accessed data
+      - but not required multiple availablity zone data resilience
       - same as standard IA + When dependent in a single zone
+### Archive 
   5. Glacier
-    - When data needs to be archived in 3 - 5 hours
-  6. Deep archive
-    - Whne needs 5 - 12 hours time 
+    - Very Cheap but for archival only 
+    - expedited, standard or bulk
+    - a standard retrieval time takes 3 - 5 hours
+  6. Glacier Deep archive
+    - new for long-term data archival
+    - lowest cost
+    - needs 5 - 12 hours time 
 
-- AWS Features
+## AWS Features
   - S3 batch 
   - Versioning
     - bydefault not enabled
