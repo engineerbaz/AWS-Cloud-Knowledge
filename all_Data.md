@@ -274,6 +274,7 @@ There are 5 parameter on which basis of trusted Advisor works
     - Business - $ 100
     - Enterprise - $ 15000 
 
+=============================
 
 # CloudTrail
 For Auditing services
@@ -295,6 +296,7 @@ By default log time is 90 days , otherwise need to archive in S3 buckets for yea
 - Log File Integrity Validation 
 - Data Event
 - AWS Lambda
+=============================
 
 ## IAM
 - Identity & Access Managemnet 
