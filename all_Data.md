@@ -453,23 +453,27 @@ Roles can be applied on
 
 ================================================
 # S3 
-- Simple Storage Solution (S3)
+- Simple Storage Service (S3)
+- Low cost, Scalable, web based
+- Global Service
 - Object based 
 - Like PAYU (Pay As You Use)
 - For storing files and folders 
 - Scalable (Either 1MB or 1TB)
-- Global Service
-- Resource called bucket
+- Data stored in Resource called bucket
+- Can store 0 byte to 5TB
+- S3 charges for Storage, request, Data Transfer & Data Acceralation
 - S3
   - S3 is a universal namespace, name must be unique
   - PUT = upload
   - GET = Download
 
 - S3 Object 
-  - Key 
-  - Value
-  - Version ID
-  - /
+  - Key = name of Object
+  - Value = sequence of bytes
+  - Version ID = for Versioning
+  - Metadata = data about data 
+Can also has ACL. 
 
 - Types 
   1. S3 Standard
