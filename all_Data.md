@@ -576,6 +576,27 @@ arn:aws:s3:::s3bazs3
 - Reliable
 - Origin Failover 
 
+==========
+
+AWS CloudWatch
+
+Monitoring Service for AWS cloud resources and applications run on AWS. It is used to collect and track metrics, collect, monitor, log files and set alarms.
+
+CloudWatch in AWS
+Stack Driver or Google Cloud Operation in GCP
+Cloud Monitor in Alibaba
+
+
+CloudWatch is a metric repository 
+
+** EC2 is service, VM in EC2 is a resource
+
+
+SUSE Linux has some issue in getting logs
+Basic monitoring, FREE, Period of 5 min
+Detailed monitoring, Charged, Period of Single minute
+
+
 
 
 
