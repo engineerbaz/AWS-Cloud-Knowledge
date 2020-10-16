@@ -560,7 +560,7 @@ arn:aws:s3:::s3bazs3
 =====
 
 
-# Cloudfront
+# 06 Cloudfront
 - Its like CDN 
 - Content Delivery Network. 
 - For caching web files 
