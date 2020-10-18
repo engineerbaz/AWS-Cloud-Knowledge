@@ -25,53 +25,51 @@
 
 ## AMAZON VPC
 
-Single AWS, 
-Three 3 Zone
-Three Route Table (can be a single RT for all zone)
-1 VPC
-1 Router 
-One Subnet comprise in one subnet only, cant overlap 
+- Single AWS, 
+- Three 3 Zone 
+- Three Route Table (can be a single RT for all zone) 
+- 1 VPC 
+- 1 Router 
+- One Subnet comprise in one subnet only, cant overlap 
+- Currently, IPv6 is not supported in VPN
 
-Currently, IPv6 is not supported in VPN
+## VPN & SUBNET Sizing
 
-VPN & SUBNET Sizing
+- 5 IPs are reserved 
+- 10.0.0.0 Network Address 
+- 10.0.0.1 
+- 10.0.0.2 
+- 10.0.0.3 
+- 10.0.0.4 
+- 10.0.0.5
 
-5 IPs are reserved 
-10.0.0.0 Network Address
-10.0.0.1
-10.0.0.2
-10.0.0.3
-10.0.0.4
-10.0.0.5
+## VPC Security
+- Security Group 
+- Stateful Firewall 
+- Work on VM level 
+- Implicit deny 
+- Allow rule only.
+- On VPC level 
+- Evaluate all rules before deciding whether to all allow traffic 
+  
+## NACL
+- Network Access Control List 
+- Stateless 
+- Different rule for ingress and egress 
+- On Whole Network 
 
-VPC Security
-Security Group
-Stateful Firewall
-Work on VM level
-Implicit deny 
-Allow rule only.
-On VPC level
-Evaluate all rules before deciding whether to all allow traffic 
-NACL
-Network Access Control List 
-Stateless
-Different rule for ingress and egress
-On Whole Network 
+## Flow Logs
+- Packet capture & log
+- Accessing a Corporate or Home Network 
+- Connect VPC to corp data centr by IPSec
 
-Flow Logs
-Packet capture & log
-
-Accessing a Corporate or Home Network
-Connect VPC to corp data centr by IPSec
-
-VPC Endpoints
-VPC EP enables you to privately connect your VPC to supported AWS 
-Interface EP
-An elastic network with a private IP address from the IP 
-GW EP
-Where non-IP based system like S3, Dynamo DB
-
-Integrated with Other AWS Service 
+## VPC Endpoints
+- VPC EP enables you to privately connect your VPC to supported AWS  
+- Interface EP 
+  - An elastic network with a private IP address from the IP 
+- GW EP 
+  - Where non-IP based system like S3, Dynamo DB
+- Integrated with Other AWS Service 
 
 Dashboard
 Component by 
