@@ -29,7 +29,7 @@ AWS being the market leader of the cloud world.
 - Trusted Advisor & CloudTrail
   - [TrustedAdvisor](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/03%20Trusted_Advisor%26CloudTrail.md)
 - Identity Access Management
-  - [IAM](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/04%20IAM.md)
+  - [IAM](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/04%20Identity_Access_Management_IAM.md)
 - Simple Storage Service
   - [S3](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/05%20Simple_Storage_Service_S3.md)
 
