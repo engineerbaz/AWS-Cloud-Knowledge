@@ -31,7 +31,7 @@ AWS being the market leader of the cloud world.
 - Identity Access Management
   - [IAM](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/04%20IAM.md)
 - Simple Storage Service
-  - [S3](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/05%20S3.md)
+  - [S3](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/05%20Simple_Storage_Service_S3.md)
 
 
 
