@@ -26,6 +26,12 @@ AWS being the market leader of the cloud world.
   - [AWS Regions & Avalailblity Zones](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/01c%20AWS_Regions_AZs.md)
 - AWS Services 
   - [AWS Services](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/02%20AWS_Services_Intro_1.md) 
+- Trusted Advisor & CloudTrail
+  - [TrustedAdvisor](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/03%20Trusted_Advisor%26CloudTrail.md)
+- Identity Access Management
+  - [IAM](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/04%20IAM.md)
+- Simple Storage Service
+  - [S3](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/05%20S3.md)
 
 
 
