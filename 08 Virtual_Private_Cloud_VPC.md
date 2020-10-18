@@ -75,4 +75,56 @@ Dashboard
 Component by 
 CLI
 JSON 
----
+----------------
+
+# AWS Deployment Scenarios
+
+
+1.  Create VPC with CIDR Block 
+Vpc-0407780104d87ad99
+172.16.0.0/16 = CIDR Block
+
+2. Create VPC Gateway & Attached
+Internet gateway 
+ID igw-0862945af0f49ee34
+
+3. Create 4 subnets (2 For Public & 2 for Private )
+Zone 1
+Public Subnet 1  = 172.16.0.0/24
+Subnet ID subnet-0eea2c78ed4f835bf
+Private Subnet 1 = 172.16.1.0/24
+Subnet ID subnet-04195baa6a17df6d1
+Zone 2 
+Public Subnet 2  =  172.16.2.0/24
+Subnet ID subnet-0c664ffeb9092bb68
+Private Subnet 2 = 172.16.3.0/24
+Subnet ID subnet-02c3b0d82563b9f97
+
+4. Create Route table (Main route table already exist)
+Publie Route Table 
+Route Table ID 
+Rtb-05b38332fec44a01b
+Private Route Table
+Automatically created
+
+5. Add public & private subnets in the appropriate route tables
+Added 2 public subnets in Private RT
+Added 2 private subnet in Public RT
+
+6. add IGW to public route table
+Added route 0.0.0.0.0/0 for IGW
+
+7. Create EIP
+Created
+
+8. Create NAT Gateway on public Subnet
+NAT GW makes in public subnet but attached with the private subnet
+NAT Gateway ID 
+nat-0149b8e4d30541da2
+
+
+9. Add NatGW route on main route table (Private ROute table)
+Added route of 0.0.0.0/0 
+
+10. verify
+
