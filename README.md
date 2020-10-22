@@ -32,6 +32,12 @@ AWS being the market leader of the cloud world.
   - [IAM](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/04%20Identity_Access_Management_IAM.md)
 - Simple Storage Service
   - [S3](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/05%20Simple_Storage_Service_S3.md)
+- CloudFront 
+  - CloudFront
+- CloudWatch
+  - CloudWatch
+- Virtual Private Cloud
+  - VPC
 
 
 
