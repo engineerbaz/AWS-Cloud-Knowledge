@@ -38,7 +38,8 @@ AWS being the market leader of the cloud world.
   - CloudWatch
 - Virtual Private Cloud
   - VPC
-
+- Elastic Cloud Compute
+  - EC2
 
 
 ![Learn AWS-Services](https://user-images.githubusercontent.com/56934817/89783056-bda6ea00-db2f-11ea-96e8-91f648cce438.png)
