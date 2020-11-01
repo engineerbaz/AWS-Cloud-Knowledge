@@ -33,9 +33,9 @@ AWS being the market leader of the cloud world.
 - Simple Storage Service
   - [S3](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/05%20Simple_Storage_Service_S3.md)
 - CloudFront 
-  - CloudFront
+  - [CloudFront](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/06%20CloudFront.md)
 - CloudWatch
-  - CloudWatch
+  - [CloudWatch](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/07%20CloudWatch.md)
 - Virtual Private Cloud
   - [VPC](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/08%20Virtual_Private_Cloud_VPC.md)
 - Elastic Cloud Compute
