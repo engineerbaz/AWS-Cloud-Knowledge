@@ -21,26 +21,25 @@ CloudWatch is a metric repository  </br>
 
 ## Feature
 
+- Monitoring
+- AutoScaling
+- SNS
+- For notifying through email/SMS/http 
+- EC2 Action
+- Like start/stop VM
 
-Monitoring
-AutoScaling
-SNS
-For notifying through email/SMS/http 
-EC2 Action
-Like start/stop VM
 
-
-Metric
-Namespace
-Grouping 
-Dimensions
-name/value pair that you uniquely identify a metric
-AutoScalingGroupName, ImageID, instanceID, volumeID
-Timestamp
-To know what timestamp it had captured
-Units
-Unit represents the statistical unit of measure
-Like Networking metric is unit
+- Metric
+- Namespace
+- Grouping 
+- Dimensions
+- name/value pair that you uniquely identify a metric
+- AutoScalingGroupName, ImageID, instanceID, volumeID
+- Timestamp
+- To know what timestamp it had captured
+- Units
+- Unit represents the statistical unit of measure
+- Like Networking metric is unit
 
 
 Retention Period of all Metric
