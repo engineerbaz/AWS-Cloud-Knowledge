@@ -40,6 +40,8 @@ AWS being the market leader of the cloud world.
   - [VPC](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/08%20Virtual_Private_Cloud_VPC.md)
 - Elastic Cloud Compute
   - [EC2](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/09%20Elastic_Cloud_Computing_EC2.md)
+- Elastic Load Balancer
+  - [ELB](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/11%20ElasticLoadBalance.md)
 
 
 ![Learn AWS-Services](https://user-images.githubusercontent.com/56934817/89783056-bda6ea00-db2f-11ea-96e8-91f648cce438.png)
