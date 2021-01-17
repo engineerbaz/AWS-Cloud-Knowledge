@@ -1,0 +1,92 @@
+# SQS
+
+
+* Simple Queue Service 
+   * Fully managed queuing service that enables to decouple and scale micro service & serverless apps
+   * Oldest service, November 2004
+   * A queue is a temporary repo message that is waiting to be processed. 
+
+
+### Use Case 
+* Video transcoding web (EC2, SQS, S3 & DynmoDB)
+  
+
+
+
+## SQS Types
+* Standard 
+   * Offer maximum throughput, 
+   * best effort ordering 
+   * at-least-once delivery
+
+
+* FIFO
+   * First In First Out
+   * Guarantees that messages are processed exactly once , in order that they are sent.
+   * Unlimited queues & messages
+   * Payload size
+      * Can up to 256KB but each of 64KB chunk of payload.
+   * Exactly once processing 
+   * High throughput
+      * FIFO supports 300 messages per second(send, receive or delete ops / sec)
+   * Batches 
+      * Sends or receives in batches of up to 10 messages or 256KB
+   * Long polling 
+      * Requests wait up to 20 seconds for next message to arrive 
+   * Message locking 
+      * When msg received, it becomes locked while being processed.
+      * Retain up to 14 days
+   * Queue Sharing 
+      * Securely sharing 
+      * IP and time of day can be restricted.
+   * SSE
+      * Server Side Encryption. 
+   * DLQ
+      * Dead Letter Queue
+      * Handle messages that have no been successfully processed by a consumer with DLQ
+      * When max receive count is  exceeded for a message it will be moved to DLQ
+      * DLQ must be same type
+   * Scalability
+   * Resiliency
+  
+
+________________
+
+
+## SNS 
+* Simple Notification Service 
+* Flexible, Fully Managed  Pub/sub (Publish/Subcribe) Service , mobile notification service for coordinating the delivery 
+
+of message to subscribing endpoints & clients
+* Can use to decouple message publishers from subscribers, fan-out message to multiple recipients at once and 
+
+eliminate polling in app
+* Supports allowing push message directly to SQS, Lambda and HTTP EP
+
+
+  
+
+* AWS Services (EC2, CloudWatch, S3) can publish messages to SNS topic and trigger event driven computing and 
+
+workflows.
+* Works with SQS to make powerful fault tolerant system 
+* Mobile notification makes it simple and cost effective to send push notification to iOS, android, Fire OS, windows and 
+
+Baidu based device. Also to MAC OS desktop and VOIP apps on IOS device, email and SMS to 200+ countries
+
+
+### Benefit 
+* Reliabel deliver messages with durability
+   * Uses cross region AZ storage
+* Simplify architecture with message filter
+   * Offloading the message filtering logic from your subscriber system and message routing from your publisher 
+
+system.
+* Scalable 
+* Keep message private & Secure
+* Simple
+   * Developer can get started with 3 APIs 
+      * CreateTopic
+      * Subscribe 
+      * Publish
+* Inexpensive
