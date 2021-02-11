@@ -44,6 +44,10 @@ AWS being the market leader of the cloud world.
   - [ELB](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/11%20ElasticLoadBalance.md)
 - Auto Scaling Group
   - [ASG](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/12%20AutoScaling.md)
+  
+  
+- LAB
+  - [Lab](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/12%20AutoScaling.md)
 
 
 
