@@ -1,6 +1,6 @@
 ### Welcome EveryOne!!!
 
-The notes :memo: in this repository is comprehensive and written with the goal of knowledge sharing of AWS Cloud :cloud:
+These notes :memo: in this repository is comprehensive and written with the goal of knowledge sharing of AWS Cloud :cloud:
 ⛈️
 
 - Good luck & enjoy studying! :coffee: 
