@@ -1,8 +1,7 @@
 ### Welcome EveryOne to AWS!!!
 
 These notes :memo: in this repository is comprehensive and written with the goal of knowledge sharing of AWS Cloud :cloud: ⛈️
-- Good luck & enjoy studying! :coffee: **Contributions of any kind are welcome! :sparkles:**
-
+   - Good luck & enjoy studying! :coffee: **Contributions of any kind are welcome! :sparkles:**
 
 ![AWS logo](https://user-images.githubusercontent.com/56934817/107876931-ed71e880-6eea-11eb-979b-fac9d62a48e7.png) 
 
@@ -11,12 +10,11 @@ These notes :memo: in this repository is comprehensive and written with the goal
 AWS being the market leader of the cloud world.
 
 
-The AWS Cloud spans 77 Availability Zones within 24 geographic regions around the world, with announced plans for 18 more Availability Zones and 6 more AWS Regions in Australia, India, Indonesia, Japan, Spain, and Switzerland.
+The AWS Cloud spans **77** Availability Zones within **24** geographic regions around the world, with announced plans for 18 more Availability Zones and 6 more AWS Regions in Australia, India, Indonesia, Japan, Spain, and Switzerland.
 
 ![AWS Footprint](https://user-images.githubusercontent.com/56934817/107876812-2bbad800-6eea-11eb-93a6-2742efb59093.png)
 
 # AWS Cloud 
-
 ## **Table of Content**
 
 - AWS Amazon Web Services
