@@ -12,7 +12,7 @@ These notes :memo: in this repository is comprehensive and written with the goal
 
 AWS being the market leader of the cloud world.
 
-![Cloud](https://www.pinterest.com/pin/296393219208317744/)
+
 
 
 
@@ -58,7 +58,7 @@ AWS being the market leader of the cloud world.
 
 ![Learn AWS-Services](https://user-images.githubusercontent.com/56934817/89783056-bda6ea00-db2f-11ea-96e8-91f648cce438.png)
 
-
+![Cloud](https://www.pinterest.com/pin/296393219208317744/)
 
 
 
