@@ -1,9 +1,9 @@
 ### Welcome EveryOne to AWS!!!
 These notes :memo: in this repository is comprehensive and written with the goal of knowledge sharing of AWS Cloud :cloud: ⛈️
    - Good luck & enjoy studying! :coffee: **Contributions of any kind are welcome! :sparkles:**
-<div align="center">
+
 ![AWS logo](https://user-images.githubusercontent.com/56934817/107876931-ed71e880-6eea-11eb-979b-fac9d62a48e7.png) 
-</div>
+
 **[AWS](https://aws.amazon.com/what-is-aws/?nc1=f_cc)** is a collection of various Cloud Computing services and applications that offers flexible, reliable, easy-to-use, and cost-effective solutions.AWS being the market leader of the cloud world.
 
 The AWS Cloud spans **77** Availability Zones within **24** geographic regions around the world, with announced plans for 18 more Availability Zones and 6 more AWS Regions in Australia, India, Indonesia, Japan, Spain, and Switzerland.
