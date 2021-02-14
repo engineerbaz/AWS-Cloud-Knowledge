@@ -4,7 +4,7 @@ These notes :memo: in this repository is comprehensive and written with the goal
 - Good luck & enjoy studying! :coffee: **Contributions of any kind are welcome! :sparkles:**
 
 ------------------------------
-
+![AWS logo](https://aws.amazon.com/?nc2=h_lg)
 **Amazon Web Services** ([AWS](https://aws.amazon.com/what-is-aws/?nc1=f_cc)) is a collection of various Cloud Computing services and applications that offers flexible, reliable, easy-to-use, and cost-effective solutions.
 
 AWS being the market leader of the cloud world.
