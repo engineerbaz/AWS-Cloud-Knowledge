@@ -1,6 +1,8 @@
 ### Welcome EveryOne to AWS!!!
 These notes :memo: in this repository is comprehensive and written with the goal of knowledge sharing of AWS Cloud :cloud: ⛈️
-   - Good luck & enjoy studying! :coffee: **Contributions of any kind are welcome! :sparkles:**
+   - Good luck & enjoy studying! :coffee: 
+   - **Contributions of any kind are welcome! :sparkles:**
+   
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56934817/107876931-ed71e880-6eea-11eb-979b-fac9d62a48e7.png" />
 </p>
