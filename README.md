@@ -5,7 +5,7 @@ These notes :memo: in this repository is comprehensive and written with the goal
 
 ![AWS logo](https://user-images.githubusercontent.com/56934817/107876931-ed71e880-6eea-11eb-979b-fac9d62a48e7.png) 
 
-**Amazon Web Services** ([AWS](https://aws.amazon.com/what-is-aws/?nc1=f_cc)) is a collection of various Cloud Computing services and applications that offers flexible, reliable, easy-to-use, and cost-effective solutions.
+**([AWS](https://aws.amazon.com/what-is-aws/?nc1=f_cc))** is a collection of various Cloud Computing services and applications that offers flexible, reliable, easy-to-use, and cost-effective solutions.
 
 AWS being the market leader of the cloud world.
 
