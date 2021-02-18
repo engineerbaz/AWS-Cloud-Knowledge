@@ -1,4 +1,4 @@
-### Welcome EveryOne to AWS!!!
+### Welcome EveryOne to AWS !!!
 The Notes :memo: in this repository are comprehensive and written with the goal of knowledge sharing of AWS Cloud :cloud: ⛈️
    - Good luck & enjoy studying! :coffee: 
    - **Contributions of any kind are welcome! :sparkles:**
