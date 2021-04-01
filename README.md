@@ -40,7 +40,7 @@ The AWS Cloud spans **77** Availability Zones within **24** geographic regions a
   - [ELB](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/11%20ElasticLoadBalance.md)
 - Auto Scaling Group
   - [ASG](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/12%20AutoScaling.md)
-  - SNS 
+- SNS 
   - [SNS]()
   
 
